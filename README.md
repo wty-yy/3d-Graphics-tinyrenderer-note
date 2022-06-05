@@ -1,7 +1,7 @@
 # 3d-Graphics-tinyrenderer-note
 记录学习tinyrenderer过程的代码
 
-该项目为大佬 ssloy 的 [tinyrender](https://github.com/ssloy/tinyrenderer) 项目的学习笔记, 中文教程参考: [KrisYu](https://github.com/KrisYu/tinyrender) 的github项目和 [知乎 - 从零构建光栅器，tinyrenderer笔记](https://zhuanlan.zhihu.com/p/399056546) 对应的github项目 [MrZz233/tinyrenderer_notes](https://github.com/MrZz233/tinyrenderer_notes)
+该项目为大佬 [ssloy](https://github.com/ssloy) 的 [tinyrender](https://github.com/ssloy/tinyrenderer) 项目的学习笔记, 中文教程参考: [KrisYu](https://github.com/KrisYu/tinyrender) 的github项目和 [知乎 - 从零构建光栅器，tinyrenderer笔记](https://zhuanlan.zhihu.com/p/399056546) 对应的github项目 [MrZz233/tinyrenderer_notes](https://github.com/MrZz233/tinyrenderer_notes)
 
 ## 学习目标
 
