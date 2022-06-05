@@ -23,4 +23,4 @@ g++ main.cpp tgaimage.cpp model.cpp -o main && main.exe && output.tga
 
 # 文章教程
 
-我的博客: wty-yy.github.io/posts/60580
+我的博客: [使用tinyrender入门OpenGL](wty-yy.github.io/posts/60580)
